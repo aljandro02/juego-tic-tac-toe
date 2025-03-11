@@ -1,0 +1,7 @@
+D:\alej_\proyectos en vb\c#\JuegoProyecto\JuegoProyecto\bin\Debug\JuegoProyecto.exe.config
+D:\alej_\proyectos en vb\c#\JuegoProyecto\JuegoProyecto\bin\Debug\JuegoProyecto.exe
+D:\alej_\proyectos en vb\c#\JuegoProyecto\JuegoProyecto\bin\Debug\JuegoProyecto.pdb
+D:\alej_\proyectos en vb\c#\JuegoProyecto\JuegoProyecto\obj\Debug\JuegoProyecto.csproj.AssemblyReference.cache
+D:\alej_\proyectos en vb\c#\JuegoProyecto\JuegoProyecto\obj\Debug\JuegoProyecto.csproj.CoreCompileInputs.cache
+D:\alej_\proyectos en vb\c#\JuegoProyecto\JuegoProyecto\obj\Debug\JuegoProyecto.exe
+D:\alej_\proyectos en vb\c#\JuegoProyecto\JuegoProyecto\obj\Debug\JuegoProyecto.pdb
